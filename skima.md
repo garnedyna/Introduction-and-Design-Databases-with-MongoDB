@@ -38,13 +38,13 @@ Soal 3
          "varianName": "Kaos Polos Hitam",
          "color": "hitam",
          "quantity": 12,
-         "price": "99.000"
+         "price": "Rp. 99.000"
      },{
           "_id": "ObjectId('BBB')",
          "varianName": "Kaos Polos Navy",
          "color": "navy",
          "quantity": 10,
-         "price": "99.000"
+         "price": "Rp. 99.000"
      }]
 
 
@@ -56,7 +56,7 @@ Soal 4
       "location": "Pondok Indah Mall",
       "films": [{
            "_id": "ObjectId('FILM1')",
-           "names": "Venom"
+           "names": "Venom 2"
       },{
            "_id": "ObjectId('FILM2')",
            "names": "Spiderman No Way Home"
@@ -67,7 +67,7 @@ Soal 4
       "location": "Mall Kelapa Gading",
       "films": [{
            "_id": "ObjectId('FILM1')",
-           "names": "Venom"
+           "names": "Venom 2"
       },{
            "_id": "ObjectId('FILM2')",
            "names": "Spiderman No Way Home"
